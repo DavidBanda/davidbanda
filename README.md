@@ -1,6 +1,6 @@
 ### Hi there, I'm David 👋
 
-**Glad to see you around here!** 🤩 The green dots on my [**GitHub** profile](https://github.com/davidbanda?tab=repositories) represent my journey :running_man: - From recreating Flappy Bird on **iOS** 🤳 to becoming a [**Python developer**](https://github.com/DavidBanda/Python-Algorithms) 🐍. 
+**Glad to see you around here!** 🤩 The green dots on my [**GitHub** profile](https://github.com/davidbanda?tab=repositories) represent my journey :running_man: - From coding **Flappy Bird** on **iOS** 🤳 to becoming a [**Python developer**](https://github.com/DavidBanda/Python-Algorithms) 🐍. 
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=davidbanda.visitor-badge)](https://github.com/davidbanda) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/davidbanda)
@@ -12,3 +12,10 @@
 |[**Woodworking website**](https://github.com/DavidBanda/Carpinteria-Django)| Using **Django**, I created a website for a woodworking store.
 
 <sup>**[Click here](https://github.com/davidbanda?tab=repositories)** *to view all my repos.</sup>*
+
+More **about me**:
+
+- 🌌  **[Science Fiction Lover](https://en.wikipedia.org/wiki/Science_fiction)**
+- 🤖  **[Isaac Asimov Fan](https://en.wikipedia.org/wiki/Isaac_Asimov)**
+- :electron:  **[Python Lover](https://docs.python.org/3/)**
+- 🔫 **[Fan of War Videogames](https://www.callofduty.com/mx/es/warzone)**
