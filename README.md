@@ -3,7 +3,7 @@
 **Glad to see you around here!** 🤩 The green dots on my [**GitHub** profile](https://github.com/davidbanda?tab=repositories) represent my journey :running_man: - From coding **Flappy Bird** on **iOS** 🤳 to becoming a [**Python developer**](https://github.com/DavidBanda/Python-Algorithms) 🐍. 
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=davidbanda.visitor-badge)](https://github.com/davidbanda) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/davidbanda)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/davidbanda)
 
 
 |      Projects :octocat:   |     Description 📕 |
