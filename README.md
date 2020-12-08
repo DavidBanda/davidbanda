@@ -9,7 +9,7 @@
 |      Projects :octocat:   |     Description 📕 |
 |---------------------------|-----------------|
 |[**School Visit Managment**](https://github.com/DavidBanda/ITCHII-SS-Visitas)| A website for **ITCHII** to improve the process of making visits to companies.
-|[**Woodworking website**](https://github.com/DavidBanda/Carpinteria-Django)| Using **Django**, I created a website for a woodworking store.
+|[**Logistic Regression with Neural Networks**](https://github.com/DavidBanda/person_detection_logistic_regression)| Project to **detect pedestrian** from a video using logistic regression with neural networks.
 
 <sup>**[Click here](https://github.com/davidbanda?tab=repositories)** *to view all my repos.</sup>*
 
